@@ -1,6 +1,8 @@
 # Quote-Generator
 
-Basic quote generator.
+Basic <a href = 'http://savagewilliam.github.io/Quote-Generator/'> quote generator </a>
 
-Click to change to new quote.
+Click to change to new quote. 
+
+
 
